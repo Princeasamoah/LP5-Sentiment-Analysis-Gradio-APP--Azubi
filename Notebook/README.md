@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/spaces/Kennymaur/porthole-detector 
+Check out the configuration reference at https://huggingface.co/spaces/Princeasamoah/porthole-detector 
 
 ## Author 
-AFOLABI Kehinde
+Prince Agyei Asamoah
